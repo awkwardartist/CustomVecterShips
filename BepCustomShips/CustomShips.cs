@@ -19,6 +19,12 @@ namespace BepCustomShips
         public static Mesh shipModelMesh;
         public Material newMat;
         public static bool materialYoink;
+        
+        
+        
+       
+
+        
         void Start()
         {
             materialYoink = false;
@@ -465,6 +471,7 @@ namespace BepCustomShips
         }
     }
 
-
+    
 }
+
 
